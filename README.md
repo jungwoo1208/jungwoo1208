@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @jungwoo1208
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning ai
-
+- 👀 I'm studying computer Science engineering at Chungnam National University
+- 🌱 I am interested in the backend and ai field
