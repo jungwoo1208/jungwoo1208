@@ -1,17 +1,13 @@
 <h1 align="center">Hi there! 👋 I'm [Jungwoo] </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+Software+Engineer;Passionate+about+Deep+Learning+%26+Optimization" alt="Typing SVG" />
-</p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 **Computer Science Student @ 충남대학교** (Currently on a 2-year break for public service)
 - 🤖 Interested in **AI, Deep Learning, and Software Engineering**
-- 💡 Currently working on **YOLO-based computer vision projects** and **AI-powered recommendation systems**
+- 💡 Currently working on **Deep Learning**
 - 🔍 Exploring **Machine Learning, NLP, and Full-Stack Development**
-- 💬 Feel free to ask me about **AI, Python, Flask, and React**
 
 ---
 
