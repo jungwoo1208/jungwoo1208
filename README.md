@@ -18,7 +18,6 @@
 ## 🏆 Algorithm & Problem Solving
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjw1972)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=your_solvedac_id)](https://solved.ac/gjw1972)
 
 ---
 
