@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm [Jeongwoo] </h1>
+<h1 align="center">Hi there! 👋 I'm [Jungwoo] </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+Software+Engineer;Passionate+about+Deep+Learning+%26+Optimization" alt="Typing SVG" />
@@ -22,6 +22,13 @@
 ---
 
 ## 💻 Tech Stack
+
+### 🔥 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### 🧠 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -32,34 +39,10 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" height="180">
-</p>
-
----
-
-## 🏗️ Projects
-- 🔹 [**Duzz**](https://github.com/teamDuzz) - AI-driven mentor-mentee matching system based on course & interest analysis  
-- 🔹 [**YOLO-based Public Property Damage Detection**](https://github.com/your_repo) - Object detection model for recognizing vandalism in public spaces  
-- 🔹 [**AI Recipe Recommender**](https://github.com/your_repo) - Uses YOLOv8 & GPT to recommend recipes based on detected ingredients  
-
----
 
 ## 📫 How to reach me  
-📧 Email: [your_email@example.com](mailto:your_email@example.com)  
-💬 Discord: `your_discord_id`  
-📝 Blog: [your_blog_link](https://your_blog.com)
+📧 Email: [gjw1972@naver.com](mailto:your_email@example.com)  
+💬 Discord: `jungu_128`  
+📝 Blog: [https://velog.io/@gjw1972/posts](https://your_blog.com)
 
 ---
-
-💡 *“The best way to predict the future is to invent it.”* - Alan Kay 🚀
