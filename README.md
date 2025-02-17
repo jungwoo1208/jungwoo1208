@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm [Your Name] </h1>
+<h1 align="center">Hi there! 👋 I'm [Jeongwoo] </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+Software+Engineer;Passionate+about+Deep+Learning+%26+Optimization" alt="Typing SVG" />
@@ -16,9 +16,9 @@
 ---
 
 ## 🏆 Algorithm & Problem Solving
-![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_solvedac_id)
+![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjw1972)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=your_solvedac_id)](https://solved.ac/your_solvedac_id)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=your_solvedac_id)](https://solved.ac/gjw1972)
 
 ---
 
